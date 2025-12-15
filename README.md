@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ontology-guided Ensemble Learning for WSD Diagnosis
 
 This repository contains code for the paper:
@@ -14,3 +15,7 @@ for White Spot Disease (WSD) risk prediction.
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+=======
+# shrimp-wsd-ontology
+Ontology-guided ensemble learning for White Spot Disease diagnosis
+>>>>>>> 1a0002b62e18d140d485a7d2a37659943e28ec80
